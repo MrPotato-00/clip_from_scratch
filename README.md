@@ -38,8 +38,4 @@ Steps for running testing the model.
 A sample example of image-to-text retrieval:
 
 
-
-
-The image-to-text implementation was inspired from the implementation of clip from scratch using this medium article: https://medium.com/correll-lab/building-clip-from-scratch-68f6e42d35f4
-
 If you have any have any suggestion for improvement create a pull request.
