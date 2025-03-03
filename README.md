@@ -22,6 +22,10 @@ Steps for running testing the model.
 4. Run the training script. (python3 main.py)
 5. Run the retrieval script while passing argument in command line.
 
+A sample example of image-to-text retrieval:
+
+
+
 
 The image-to-text implementation was inspired from the implementation of clip from scratch using this medium article: https://medium.com/correll-lab/building-clip-from-scratch-68f6e42d35f4
 
