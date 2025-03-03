@@ -13,6 +13,13 @@ This project aims to explore implementation of Clip from scratch with its incred
                         "bag",
                         "ankle boot"]
 ```
+Steps for running testing the model. 
+1. Clone this repository.
+2. Create a virtual environment.
+3. Install the dependencies. (pip install -r requirements.txt)
+4. Run the training script. (python3 main.py)
+5. Run the retrieval script while passing argument in command line.
+
 These are the query for the image-to-text retrieval.
 ![Screenshot from 2025-03-03 23-59-24](https://github.com/user-attachments/assets/cd2554b7-85b6-46da-a97c-adc889e2fe63)
 
@@ -28,12 +35,6 @@ Below is the query of text-to-image retrieval:
 
 
 
-Steps for running testing the model. 
-1. Clone this repository.
-2. Create a virtual environment.
-3. Install the dependencies. (pip install -r requirements.txt)
-4. Run the training script. (python3 main.py)
-5. Run the retrieval script while passing argument in command line.
 
 A sample example of image-to-text retrieval:
 
