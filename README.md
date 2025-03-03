@@ -19,7 +19,7 @@ These are the query for the image-to-text retrieval.
 ![Screenshot from 2025-03-03 23-54-25](https://github.com/user-attachments/assets/f7c5dceb-ff85-4aeb-822e-6d59db02c17a)
 
 Below is the query of text-to-image retrieval:
-![Screenshot from 2025-03-03 23-55-04](https://github.com/user-attachments/assets/3b821075-e666-45d8-ab2f-09106ab81785)
+![Screenshot from 2025-03-03 23-55-04](https://github.com/user-attachments/assets/c487b21e-1f24-4744-a595-3a3407899856)
 ![Screenshot from 2025-03-03 23-56-18](https://github.com/user-attachments/assets/7f031a97-15ea-40a1-98ae-247e829678f3)
 ![Screenshot from 2025-03-03 23-56-50](https://github.com/user-attachments/assets/48e0e5fd-a7d5-4aee-b121-b48d70a1c2e5)
 ![Screenshot from 2025-03-03 23-57-34](https://github.com/user-attachments/assets/ad573247-48ae-4499-8546-1dd1cae8591f)
